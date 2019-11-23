@@ -12,14 +12,21 @@ const Quotes = [
         author:'His Last Bow'
     },
     {
-        text:'To a great mind, nothing is little',
-        author:'The Study in Scarlet'
+        text:'You know my method. It is founded upon the observation of trifles.',
+        author:'The Boscombe Valley Mystery'
     },
     {
         text:'I wanted to end the world, but I\'ll settle for ending yours.',
         author:'Professor Moriarty'
     },
-    
+    {
+        text:'I cannot live without brainwork. What else is there to live for?',
+        author:'The Complete Sherlock Holmes'
+    },
+    {
+        text:'I am not the law, but I represent justice so far as my feeble powers go.',
+        author:'Sir Arthur Conan Doyle'
+    }
 ];
 
 export default Quotes;
