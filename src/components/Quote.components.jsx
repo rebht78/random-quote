@@ -14,7 +14,7 @@ class Quote extends React.Component {
                     <button id="new-quote" onClick={this.props.generateQuote}>New Quote</button>
                 </div>
                 <div id="tweet-quote">
-                    <a target="_blank" href="https://twitter.com/intent/tweet">
+                    <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/intent/tweet">
                         <i class="fa fa-twitter" aria-hidden="true"></i>
                     </a>
                 </div>
