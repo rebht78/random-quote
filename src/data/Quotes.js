@@ -26,6 +26,10 @@ const Quotes = [
     {
         text:'I am not the law, but I represent justice so far as my feeble powers go.',
         author:'Sir Arthur Conan Doyle'
+    },
+    {
+        text:'My mind rebels at stagnation, give me problems, give me work!',
+        author:'The Sign of Four'
     }
 ];
 
