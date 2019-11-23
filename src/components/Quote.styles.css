@@ -10,7 +10,7 @@
 {
     font-weight: 600;
     opacity:0.7;
-    font-size:24px;
+    font-size:18px;
     padding-top:15%;
     padding-right:15%;
     padding-left:5%;
@@ -25,4 +25,22 @@
     font-weight: 400;
     opacity:0.7;
     font-size:18px;
+}
+#btndiv
+{
+    margin-left:350px;
+    padding-top:5%;
+}
+#new-quote
+{
+    background-color:rgba(0,0,0,0.9);
+    color:white;
+    text-transform: uppercase;
+    padding:5%;
+    border:0;
+    box-shadow:0 2px 3px white;
+}
+#new-quote:hover
+{
+    padding-top:4.5%;
 }

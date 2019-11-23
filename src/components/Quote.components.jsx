@@ -6,10 +6,13 @@ class Quote extends React.Component
         return (
             <div id="quote-box">
                 <div id="text">
-                “I trust that age doth not wither nor custom stale my infinite variety.”
+                “{this.props.text}”
                 </div>
                 <div id="author">
-                - Sherlock Holmes
+                - {this.props.author}
+                </div>
+                <div id="btndiv">
+                    <button id="new-quote" onClick={this.props.generateQuote}>New Quote</button>
                 </div>
             </div>
         )
