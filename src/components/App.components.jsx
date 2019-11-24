@@ -15,7 +15,7 @@ class App extends React.Component {
             <div>
                 <Quote text={this.state.quote.text} author={this.state.quote.author} generateQuote={this.newQuote} />
                 <footer id="text-footer">
-                Crafted in Surat with <i class="fa fa-heart"></i> by Sohel Shaikh
+                Crafted in Surat with <i className="fa fa-heart"></i> by Sohel Shaikh
                 </footer>
             </div>
         )

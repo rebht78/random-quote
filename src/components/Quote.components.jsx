@@ -15,7 +15,7 @@ class Quote extends React.Component {
                 </div>
                 <div id="tweet-quote">
                     <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/intent/tweet">
-                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                        <i className="fa fa-twitter" aria-hidden="true"></i>
                     </a>
                 </div>
             </div>
